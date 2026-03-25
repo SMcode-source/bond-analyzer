@@ -1,0 +1,180 @@
+Name,Type,Coupon(%),Maturity,FaceValue,Price,Owned
+Texas Instruments 2039,Corporate,8.08,2039-02-17,1000,1328.35,No
+Procter & Gamble 2040,Corporate,4.46,2040-02-25,10000,10426.59,Yes
+Estee Lauder 2030,Corporate,3.52,2030-08-05,5000,4941.95,No
+Microsoft Corp 2052,Corporate,6.81,2052-05-16,1000,1400.0,Yes
+Raytheon 2037,Corporate,3.31,2037-03-12,1000,880.16,Yes
+Meta Platforms 2037,Corporate,6.19,2037-03-17,1000,1148.34,No
+Eli Lilly 2026,Corporate,7.22,2026-12-16,1000,1007.86,No
+Johnson & Johnson 2039,Corporate,4.45,2039-12-18,1000,1160.7,Yes
+Union Pacific 2043,Corporate,6.38,2043-01-19,1000,1282.03,Yes
+Eli Lilly 2034,Corporate,7.73,2034-07-13,10000,11711.68,Yes
+Visa Inc 2055,Corporate,5.55,2055-04-22,10000,11297.0,Yes
+UK Gilt 2050,Government,3.99,2050-06-21,10000,10244.0,Yes
+Lockheed Martin 2036,Corporate,3.22,2036-03-27,1000,980.42,No
+US Treasury 2036,Government,4.43,2036-05-14,100000,107913.92,Yes
+Canada Govt 2032,Government,4.32,2032-08-01,1000,1041.88,Yes
+Nike Inc 2032,Corporate,4.03,2032-04-05,5000,5022.01,Yes
+UPS Inc 2035,Corporate,4.03,2035-06-20,1000,948.84,Yes
+UK Gilt 2041,Government,2.09,2041-05-28,1000,934.45,No
+Estee Lauder 2051,Corporate,2.29,2051-07-20,1000,784.03,No
+AMD 2034,Corporate,5.56,2034-06-08,1000,1021.83,Yes
+German Bund 2036,Government,1.87,2036-03-27,1000,930.58,No
+Exxon Mobil 2033,Corporate,3.85,2033-08-24,10000,9777.27,No
+Lowes Companies 2051,Corporate,2.0,2051-02-11,1000,664.9,No
+Qualcomm 2039,Corporate,8.39,2039-08-08,1000,1400.0,Yes
+Morgan Stanley 2045,Corporate,5.76,2045-07-30,1000,1228.28,No
+Raytheon 2044,Corporate,4.15,2044-09-24,1000,1073.79,No
+Adobe Inc 2049,Corporate,4.38,2049-10-22,1000,1081.46,Yes
+US Treasury 2043,Government,5.5,2043-12-10,100000,114750.33,No
+US Treasury 2039,Government,2.1,2039-04-17,100000,95471.43,Yes
+Citigroup 2053,Corporate,4.66,2053-04-07,1000,1073.9,No
+UK Gilt 2033,Government,4.02,2033-12-07,1000,1030.37,No
+UPS Inc 2034,Corporate,5.63,2034-11-19,10000,11379.1,No
+Colgate-Palmolive 2038,Corporate,7.95,2038-01-16,10000,12557.38,Yes
+Cisco Systems 2052,Corporate,5.53,2052-11-13,5000,6543.53,No
+AbbVie Inc 2037,Corporate,2.6,2037-08-18,10000,9004.98,No
+German Bund 2052,Government,2.2,2052-01-25,100000,74046.32,Yes
+McDonalds 2038,Corporate,6.82,2038-07-17,1000,1247.74,Yes
+Italy BTP 2048,Government,2.49,2048-08-18,1000,954.1,No
+German Bund 2044,Government,2.82,2044-10-17,10000,9067.89,No
+Caterpillar 2051,Corporate,4.79,2051-05-11,10000,8554.67,Yes
+AT&T Inc 2051,Corporate,5.34,2051-03-25,1000,1153.76,Yes
+US Treasury 2052,Government,2.98,2052-06-26,100000,90655.3,No
+US Treasury 2028,Government,4.92,2028-10-29,1000,1030.05,Yes
+Shell plc 2051,Corporate,7.94,2051-07-10,10000,14000.0,No
+Broadcom Inc 2037,Corporate,1.99,2037-06-22,1000,902.6,Yes
+US Treasury 2055,Government,1.34,2055-05-03,10000,7897.9,No
+Caterpillar 2036,Corporate,6.83,2036-05-15,5000,6147.76,No
+Target Corp 2044,Corporate,7.04,2044-08-12,1000,1280.11,No
+Amazon.com 2029,Corporate,4.16,2029-09-28,1000,966.03,No
+Tesla Inc 2033,Corporate,1.72,2033-06-26,1000,923.06,No
+Walt Disney 2027,Corporate,4.05,2027-12-18,1000,986.72,Yes
+Estee Lauder 2033,Corporate,2.61,2033-10-15,10000,9108.14,Yes
+ConocoPhillips 2034,Corporate,4.9,2034-10-12,5000,5468.23,No
+US Treasury 2031,Government,5.34,2031-01-02,1000,1065.57,No
+PepsiCo Inc 2031,Corporate,4.59,2031-06-30,5000,5100.55,No
+Bank of America 2053,Corporate,5.69,2053-10-28,5000,4795.77,No
+Cisco Systems 2027,Corporate,3.21,2027-06-13,5000,4892.01,No
+Texas Instruments 2041,Corporate,6.17,2041-09-08,1000,1243.19,Yes
+Canada Govt 2049,Government,4.15,2049-07-07,1000,1157.18,No
+Procter & Gamble 2053,Corporate,2.65,2053-05-08,1000,703.55,No
+Wells Fargo 2044,Corporate,1.55,2044-02-01,1000,785.96,No
+Chevron Corp 2051,Corporate,4.23,2051-04-19,10000,9836.55,No
+Home Depot 2035,Corporate,3.48,2035-03-24,5000,4751.23,Yes
+Johnson & Johnson 2050,Corporate,7.49,2050-07-25,1000,1081.95,No
+Italy BTP 2038,Government,3.92,2038-05-04,10000,10819.76,Yes
+Honeywell 2031,Corporate,5.75,2031-09-05,1000,1036.19,Yes
+NVIDIA Corp 2052,Corporate,3.7,2052-07-31,5000,5851.81,No
+Japan JGB 2032,Government,1.95,2032-10-15,1000,945.83,No
+Deere & Co 2049,Corporate,6.06,2049-10-10,1000,1187.0,Yes
+Spain Bono 2036,Government,3.23,2036-11-22,1000,965.02,No
+Delta Air Lines 2030,Corporate,1.96,2030-02-03,5000,4749.43,Yes
+Spain Bono 2044,Government,2.41,2044-05-04,1000,899.03,No
+Walmart Inc 2034,Corporate,2.14,2034-02-11,10000,9221.59,No
+US Treasury 2036 Ser.2,Government,4.54,2036-08-03,10000,10382.52,Yes
+Delta Air Lines 2031,Corporate,5.44,2031-02-17,1000,1028.89,No
+Adobe Inc 2052,Corporate,7.51,2052-06-16,1000,1400.0,Yes
+Salesforce 2052,Corporate,8.33,2052-03-26,1000,1400.0,No
+UK Gilt 2053,Government,4.1,2053-05-04,1000,1135.11,No
+Intel Corp 2033,Corporate,6.12,2033-04-21,5000,5744.07,No
+Exxon Mobil 2031,Corporate,3.0,2031-03-28,5000,5023.12,No
+US Treasury 2040,Government,4.0,2040-02-25,100000,97985.68,Yes
+UK Gilt 2048,Government,1.7,2048-09-18,1000,764.45,Yes
+Qualcomm 2047,Corporate,1.51,2047-08-21,10000,7468.12,No
+Microsoft Corp 2043,Corporate,6.51,2043-04-14,10000,13252.13,Yes
+German Bund 2043,Government,2.49,2043-11-14,10000,9042.02,Yes
+McDonalds 2046,Corporate,7.5,2046-07-01,1000,1400.0,No
+Walmart Inc 2050,Corporate,5.53,2050-12-17,1000,1372.13,No
+Meta Platforms 2031,Corporate,4.16,2031-07-20,10000,10127.47,No
+Eli Lilly 2036,Corporate,6.31,2036-11-04,1000,1172.6,No
+Nike Inc 2052,Corporate,7.27,2052-03-29,1000,1400.0,No
+T-Mobile US 2051,Corporate,3.44,2051-07-04,10000,9797.99,No
+Cisco Systems 2036,Corporate,7.23,2036-08-13,1000,1192.82,Yes
+US Treasury 2047,Government,3.57,2047-03-25,1000,964.45,Yes
+Lockheed Martin 2044,Corporate,7.94,2044-11-24,5000,7000.0,No
+France OAT 2041,Government,4.64,2041-01-23,1000,1056.19,Yes
+PepsiCo Inc 2047,Corporate,2.54,2047-02-11,1000,747.9,Yes
+Goldman Sachs 2048,Corporate,6.88,2048-11-17,1000,1289.24,No
+Citigroup 2031,Corporate,5.19,2031-08-07,10000,10540.66,No
+US Treasury 2047 Ser.2,Government,4.65,2047-06-17,100000,102909.66,No
+Northrop Grumman 2047,Corporate,6.02,2047-02-06,5000,6234.16,Yes
+Oracle Corp 2041,Corporate,7.06,2041-10-22,1000,1286.72,No
+Lowes Companies 2053,Corporate,4.57,2053-11-26,5000,5550.67,No
+Goldman Sachs 2042,Corporate,8.3,2042-05-03,1000,1400.0,No
+Merck & Co 2028,Corporate,2.99,2028-11-21,1000,990.96,Yes
+Mastercard 2028,Corporate,1.98,2028-09-30,1000,1018.89,No
+Johnson & Johnson 2055,Corporate,7.98,2055-04-25,1000,1400.0,Yes
+General Dynamics 2056,Corporate,5.35,2056-02-17,1000,1224.41,Yes
+Spain Bono 2046,Government,2.64,2046-05-30,100000,85518.62,No
+FedEx Corp 2048,Corporate,3.71,2048-01-03,10000,8102.93,Yes
+UnitedHealth 2043,Corporate,3.2,2043-09-23,5000,4421.34,Yes
+Pfizer Inc 2044,Corporate,5.84,2044-04-07,5000,6086.81,Yes
+Berkshire Hathaway 2041,Corporate,3.45,2041-11-23,5000,4720.97,No
+Apple Inc 2027,Corporate,3.43,2027-06-20,1000,1000.91,No
+Italy BTP 2044,Government,1.4,2044-06-27,1000,774.17,No
+ConocoPhillips 2051,Corporate,5.27,2051-05-20,10000,10413.65,No
+Netflix Inc 2037,Corporate,5.42,2037-02-28,5000,4947.31,No
+UnitedHealth 2039,Corporate,4.47,2039-06-12,5000,5012.43,No
+Amazon.com 2048,Corporate,5.25,2048-04-03,5000,5345.93,No
+US Treasury 2039 Ser.2,Government,2.56,2039-08-15,10000,9516.21,Yes
+Honeywell 2043,Corporate,8.0,2043-10-19,10000,14000.0,No
+Verizon 2053,Corporate,7.52,2053-01-22,1000,1400.0,No
+IBM Corp 2035,Corporate,2.97,2035-09-10,10000,9570.06,No
+ConocoPhillips 2037,Corporate,1.54,2037-12-13,1000,877.09,No
+US Treasury 2051,Government,4.87,2051-11-02,100000,109217.06,No
+Italy BTP 2031,Government,4.69,2031-01-07,1000,1030.12,No
+German Bund 2029,Government,2.67,2029-05-15,1000,1002.78,No
+JPMorgan Chase 2031,Corporate,2.62,2031-03-28,5000,4827.2,No
+Home Depot 2050,Corporate,5.63,2050-01-26,1000,1343.87,No
+Boeing Co 2037,Corporate,5.04,2037-08-29,1000,1002.18,No
+UnitedHealth 2045,Corporate,1.92,2045-10-16,1000,756.08,Yes
+German Bund 2050,Government,0.14,2050-01-01,1000,723.59,No
+US Treasury 2047 Ser.3,Government,5.07,2047-02-15,1000,1193.79,Yes
+Target Corp 2035,Corporate,5.62,2035-07-02,5000,5631.64,No
+US Treasury 2033,Government,1.41,2033-03-31,1000,909.04,Yes
+Colgate-Palmolive 2041,Corporate,3.41,2041-09-27,5000,4454.28,No
+Home Depot 2028,Corporate,1.52,2028-12-10,5000,4736.28,Yes
+Walmart Inc 2042,Corporate,4.56,2042-08-28,10000,9671.25,Yes
+Canada Govt 2039,Government,1.45,2039-01-01,1000,935.34,No
+Bank of America 2051,Corporate,3.65,2051-04-06,1000,949.57,Yes
+NVIDIA Corp 2034,Corporate,3.23,2034-07-17,10000,10077.63,No
+UK Gilt 2035,Government,2.76,2035-09-02,10000,9631.04,Yes
+Pfizer Inc 2034,Corporate,6.19,2034-06-03,1000,1115.04,No
+NVIDIA Corp 2043,Corporate,4.03,2043-12-11,1000,1018.47,Yes
+Bank of America 2048,Corporate,7.21,2048-04-26,10000,13830.14,No
+3M Company 2033,Corporate,4.81,2033-10-06,1000,1045.45,No
+Canada Govt 2049 Ser.2,Government,1.95,2049-12-24,10000,7937.31,Yes
+Raytheon 2027,Corporate,8.14,2027-01-11,1000,1039.08,No
+Pfizer Inc 2035,Corporate,3.71,2035-07-31,1000,926.7,No
+Boeing Co 2050,Corporate,7.07,2050-06-29,10000,13778.24,No
+Starbucks 2056,Corporate,4.55,2056-02-20,5000,4578.56,No
+Costco 2054,Corporate,2.95,2054-09-06,1000,834.66,Yes
+General Dynamics 2047,Corporate,3.64,2047-02-19,10000,10350.34,Yes
+AMD 2037,Corporate,5.07,2037-02-01,10000,10668.32,No
+US Treasury 2040 Ser.2,Government,3.43,2040-12-29,1000,1013.2,Yes
+Citigroup 2048,Corporate,2.91,2048-04-05,1000,981.51,No
+France OAT 2030,Government,3.5,2030-03-26,10000,10246.52,Yes
+Japan JGB 2038,Government,0.65,2038-04-28,1000,787.92,Yes
+Morgan Stanley 2055,Corporate,6.83,2055-05-26,10000,11976.96,Yes
+CSX Corp 2043,Corporate,4.79,2043-08-31,5000,6112.93,Yes
+UK Gilt 2026,Government,4.46,2026-09-20,1000,987.49,No
+Mastercard 2041,Corporate,7.47,2041-07-24,1000,1227.08,No
+Australia Govt 2039,Government,1.89,2039-12-04,1000,877.89,No
+Microsoft Corp 2029,Corporate,4.45,2029-04-17,1000,1004.49,No
+Boeing Co 2039,Corporate,4.04,2039-07-08,5000,4923.49,No
+General Electric 2028,Corporate,6.33,2028-12-20,1000,1037.44,No
+BP plc 2029,Corporate,4.5,2029-03-16,5000,5074.32,Yes
+AT&T Inc 2055,Corporate,5.67,2055-11-15,5000,7000.0,No
+Coca-Cola Co 2029,Corporate,4.47,2029-06-14,1000,998.11,Yes
+Alphabet Inc 2051,Corporate,7.57,2051-12-17,5000,7000.0,No
+AT&T Inc 2040,Corporate,5.4,2040-06-07,1000,1230.02,No
+Australia Govt 2035,Government,3.57,2035-06-14,1000,987.31,No
+German Bund 2045,Government,0.44,2045-10-17,1000,690.97,No
+Alphabet Inc 2043,Corporate,6.43,2043-10-05,1000,1282.03,No
+US Treasury 2051 Ser.2,Government,1.9,2051-08-17,100000,79505.24,Yes
+Canada Govt 2042,Government,4.19,2042-07-20,1000,1064.47,Yes
+Italy BTP 2047,Government,1.86,2047-12-04,100000,79138.11,No
+German Bund 2047,Government,1.67,2047-03-14,1000,761.13,No
+Japan JGB 2051,Government,0.39,2051-12-05,10000,7823.38,Yes
+UK Gilt 2043,Government,4.97,2043-07-31,10000,10551.84,Yes
